@@ -7,6 +7,7 @@ public class Mane {
             sum = sum + num % 10;
             num = num / 10;
         }
+        //a
         System.out.println(sum);
     }
 }
